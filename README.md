@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-Tira Assistant
-=======
 # Tira Chatbot
 
 <a name="readme-top"></a>
@@ -36,4 +33,3 @@ dapatkan [[Gemini API Key](https://aistudio.google.com/app/apikey)] untuk .env
    ```sh
    npm run dev
    ```
->>>>>>> Stashed changes
