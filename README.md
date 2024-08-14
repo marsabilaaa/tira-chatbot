@@ -8,8 +8,8 @@ study case virtual assistant berbasis NLP menggunakan Gemini API
 
 
 ## Page
+<img width="960" alt="page1" src="https://github.com/user-attachments/assets/52da900e-a64c-4bda-9429-c9b11f348c03">
 
-[Tira][screenshots]
 
 ## referensi
 
